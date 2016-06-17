@@ -1,0 +1,6 @@
+{
+  "presets" : [
+    "jest",
+    "react-native"
+  ]
+}
